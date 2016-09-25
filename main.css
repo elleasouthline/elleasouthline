@@ -1,0 +1,19 @@
+#shiny {
+  color:cyan;
+  font-size: 25px;
+  font-family: 'Georgia', serif
+}
+#cheesy {
+  color:black;
+  font-size: 50px;
+  
+
+}
+.home:hover {
+  color:red;
+}
+#cancer {
+  color:crimson;
+  font-size: 69px;
+  font-family: 'Comic-Sans', serif
+}
